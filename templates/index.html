@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MRT Planner</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='styles.css')}}">
+</head>
+<body>
+    <div id="header"><b>MRT Planner</b></div>
+    <div id="input-form">
+        <p style="color: grey; margin-left: 1.5em; margin-right: 1.5em;">
+            Enter the start and end destinations of your travel to get started
+        </p>
+        <form method="post">
+            <div class="input-box">
+                {% if shortest_path and shortest_path[0] != -1 %}
+                    <div id="start-code" class="station-code" style="background-color: {{rgb_codes[0][0]}}">{{mrt_lines[0][0]}}</div>
+                    <input type="text" name="start" value="{{start}}" required/>
+                {% else %}
+                    <div id="start-code" class="station-code"></div>
+                    <input type="text" name="start" required/>
+                {% endif %}
+            </div>
+            <div class="input-box">
+                {% if shortest_path and shortest_path[0] != -1 %}
+                    <div id="end-code" class="station-code" style="background-color: {{rgb_codes[-1][-1]}}">{{mrt_lines[-1][-1]}} </div>
+                    <input type="text" name="end" value="{{end}}" required/>
+                {% else %}
+                    <div id="end-code" class="station-code"></div>
+                    <input type="text" name="end" required/>
+                {% endif %}
+            </div>
+            <br><input type="submit"/>
+        </form>
+        {% if shortest_path %}
+            {% if shortest_path[0] != -1 %}
+                <p style="margin-top: 3em; margin-left: 1.5em; margin-right: 1.5em;">It will take approximately {{shortest_path[0]}} minutes to get from {{start}} to {{end}}.</p>
+                <div id="route-box">
+                    <h4>Suggested Route:</h4>
+                    {% for i in range(mrt_lines|length) %}
+                        {% for j in range(mrt_lines[i]|length) %}
+                            <div class="station-code" style="background-color: {{rgb_codes[i][j]}};">{{mrt_lines[i][j]}}</div>
+                        {% endfor %}
+                        {{shortest_path[1][i]}}
+                        <br>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <p style="margin-top: 3em;">Please enter a valid MRT location.</p>
+            {% endif %}
+        {% endif %}
+    </div>
+</body>
+</html>
