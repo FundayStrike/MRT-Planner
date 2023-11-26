@@ -1,0 +1,158 @@
+Harbourfront,NE1,Outram Park,NE3,4
+Outram Park,NE3,Chinatown,NE4,1
+Chinatown,NE4,Clarke Quay,NE5,2
+Clarke Quay,NE5,Dhoby Ghaut,NE6,3
+Dhoby Ghaut,NE6,Little India,NE7,1
+Little India,NE7,Farrer Park,NE8,1
+Farrer Park,NE8,Boon Keng,NE9,2
+Boon Keng,NE9,Potong Pasir,NE10,3
+Potong Pasir,NE10,Woodleigh,NE11,1
+Woodleigh,NE11,Serangoon,NE12,2
+Serangoon,NE12,Kovan,NE13,3
+Kovan,NE13,Hougang,NE14,2
+Hougang,NE14,Buangkok,NE15,2
+Buangkok,NE15,Sengkang,NE16,2
+Sengkang,NE16,Punggol,NE17,3
+Changi Airport,CG2,Expo,CG1,6
+Expo,CG1,Tanah Merah,CG,2
+Tanah Merah,EW4,Simei,EW3,3
+Simei,EW3,Tampines,EW2,3
+Tampines,EW2,Pasir Ris,EW1,3
+Tanah Merah,EW4,Bedok,EW5,3
+Bedok,EW5,Kembangan,EW6,3
+Kembangan,EW6,Eunos,EW7,2
+Eunos,EW7,Paya Lebar,EW8,2
+Paya Lebar,EW8,Aljunied,EW9,3
+Aljunied,EW9,Kallang,EW10,2
+Kallang,EW10,Lavender,EW11,3
+Lavender,EW11,Bugis,EW12,2
+Bugis,EW12,City Hall,EW13,2
+City Hall,EW13,Raffles Place,EW14,3
+Raffles Place,EW14,Tanjong Pagar,EW15,2
+Tanjong Pagar,EW15,Outram Park,EW16,2
+Outram Park,EW16,Tiong Bahru,EW17,3
+Tiong Bahru,EW17,Redhill,EW18,3
+Redhill,EW18,Queenstown,EW19,2
+Queenstown,EW19,Commonwealth,EW20,3
+Commonwealth,EW20,Buona Vista,EW21,2
+Buona Vista,EW21,Dover,EW22,3
+Dover,EW22,Clementi,EW23,2
+Clementi,EW23,Jurong East,EW24,5
+Jurong East,EW24,Chinese Garden,EW25,2
+Chinese Garden,EW25,Lakeside,EW26,3
+Lakeside,EW26,Boon Lay,EW27,2
+Boon Lay,EW27,Pioneer,EW28,3
+Pioneer,EW28,Joo Koon,EW29,3
+Joo Koon,EW29,Gul Circle,EW30,3
+Gul Circle,EW30,Tuas Crescent,EW31,3
+Tuas Crescent,EW31,Tuas West Road,EW32,2
+Tuas West Road,EW32,Tuas Link,EW33,2
+Jurong East,NS1,Bukit Batok,NS2,2
+Bukit Batok,NS2,Bukit Gombak,NS3,2
+Bukit Gombak,NS3,Choa Chu Kang,NS4,4
+Choa Chu Kang,NS4,Yew Tee,NS5,3
+Yew Tee,NS5,Kranji,NS7,5
+Kranji,NS7,Marsiling,NS8,3
+Marsiling,NS8,Woodlands,NS9,2
+Woodlands,NS9,Admiralty,NS10,3
+Admiralty,NS10,Sembawang,NS11,3
+Sembawang,NS11,Canberra,NS12,3
+Canberra,NS12,Yishun,NS13,3
+Yishun,NS13,Khatib,NS14,2
+Khatib,NS14,Yio Chu Kang,NS15,6
+Yio Chu Kang,NS15,Ang Mo Kio,NS16,2
+Ang Mo Kio,NS16,Bishan,NS17,4
+Bishan,NS17,Braddell,NS18,2
+Braddell,NS18,Toa Payoh,NS19,2
+Toa Payoh,NS19,Novena,NS20,3
+Novena,NS20,Newton,NS21,2
+Newton,NS21,Orchard,NS22,3
+Orchard,NS22,Somerset,NS23,2
+Somerset,NS23,Dhoby Ghaut,NS24,2
+Dhoby Ghaut,NS24,City Hall,NS25,3
+City Hall,NS25,Raffles Place,NS26,2
+Raffles Place,NS26,Marina Bay,NS27,2
+Marina Bay,NS27,Marina South Pier,NS28,3
+Dhoby Ghaut,CC1,Bras Basah,CC2,3
+Bras Basah,CC2,Esplanade,CC3,3
+Esplanade,CC3,Promenade,CC4,3
+Promenade,CC4,Nicoll Highway,CC5,2
+Nicoll Highway,CC5,Stadium,CC6,2
+Stadium,CC6,Mountbatten,CC7,2
+Mountbatten,CC7,Dakota,CC8,2
+Dakota,CC8,Paya Lebar,CC9,2
+Paya Lebar,CC9,MacPherson,CC10,4
+MacPherson,CC10,Tai Seng,CC11,2
+Tai Seng,CC11,Bartley,CC12,2
+Bartley,CC12,Serangoon,CC13,2
+Serangoon,CC13,Lorong Chuan,CC14,2
+Lorong Chuan,CC14,Bishan,CC15,2
+Bishan,CC15,Marymount,CC16,2
+Marymont,CC16,Caldecott,CC17,2
+Caldecott,CC17,Botanic Gardens,CC19,5
+Botanic Gardens,CC19,Farrer Road,CC20,2
+Farrer Road,CC20,Holland Village,CC21,2
+Holland Village,CC21,Buona Vista,CC22,2
+Buona Vista,CC22,one-north,CC23,2
+one-north,CC23,Kent Ridge,CC24,2
+Kent Ridge,CC24,Haw Par Villa,CC25,2
+Haw Par Villa,CC25,Pasir Panjang,CC26,2
+Pasir Panjang,CC26,Larbador Park,CC27,2
+Larbador Park,CC27,Telok Blangah,CC28,2
+Telok Blangah,CC28,Harbourfront,CC29,2
+Bukit Panjang,DT1,Cashew,DT2,2
+Cashew,DT2,Hillview,DT3,2
+Hillview,DT3,Beauty World,DT5,3
+Beauty World,DT5,King Albert Park,DT6,2
+King Albert Park,DT6,Sixth Avenue,DT7,2
+Sixth Avenue,DT7,Tan Kah Kee,DT8,2
+Tan Kah Kee,DT8,Botanic Gardens,DT9,2
+Botanic Gardens,DT9,Stevens,DT10,2
+Stevens,DT10,Newton,DT11,2
+Newton,DT11,Little India,DT12,3
+Little India,DT12,Rochor,DT13,1
+Rochor,DT13,Bugis,DT14,2
+Bugis,DT14,Promenade,DT15,2
+Promenade,DT15,Bayfront,DT16,2
+Bayfront,DT16,Downtown,DT17,2
+Downtown,DT17,Telok Ayer,DT18,1
+Telok Ayer,DT18,Chinatown,DT19,2
+Chinatown,DT19,Fort Canning,DT20,2
+Fort Canning,DT20,Bencoolen,DT21,2
+Bencoolen,DT21,Jalan Besar,DT22,1
+Jalan Besar,DT22,Bendemeer,DT23,2
+Bendemeer,DT23,Geylang Bahru,DT24,2
+Geylang Bahru,DT24,Mattar,DT25,2
+Mattar,DT25,MacPherson,DT26,2
+MacPherson,DT26,Ubi,DT27,2
+Ubi,DT27,Kaki Bukit,DT28,2
+Kaki Bukit,DT28,Bedok North,DT29,2
+Bedok North,DT29,Bedok Reservoir,DT30,2
+Bedok Reservoir,DT30,Tampines West,DT31,3
+Tampines West,DT31,Tampines,DT32,2
+Tampines,DT32,Tampines East,DT33,2
+Tampines East,DT33,Upper Changi,DT34,3
+Upper Changi,DT34,Expo,DT35,2
+Woodlands North,TE1,Woodlands,TE2,3
+Woodlands,TE2,Woodlands South,TE3,2
+Woodlands South,TE3,Springleaf,TE4,5
+Springleaf,TE4,Lentor,TE5,3
+Lentor,TE5,Mayflower,TE6,2
+Mayflower,TE6,Bright Hill,TE7,2
+Bright Hill,TE7,Upper Thomson,TE8,2
+Upper Thomson,TE8,Caldecott,TE9,3
+Punggol,PTC,Sam Kee,PW1,2
+Sam Kee,PW1,Punggol Point,PW3,2
+Punggol Point,PW3,Samudera,PW4,1
+Samudera,PW4,Nibong,PW5,1
+Nibong,PW5,Sumang,PW6,1
+Sumang,PW6,Soo Teck,PW7,1
+Soo Teck,PW7,Punggol,PTC,3
+Punggol,PTC,Cove,PE1,3
+Cove,PE1,Meridian,PE2,1
+Meridian,PE2,Coral Edge,PE3,1
+Coral Edge,PE3,Riviera,PE4,1
+Riviera,PE4,Kadaloor,PE5,1
+Kadaloor,PE5,Oasis,PE6,1
+Oasis,PE6,Damai,PE7,1
+Damai,PE7,Punggol,PTC,2
